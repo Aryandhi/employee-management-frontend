@@ -21,8 +21,8 @@ export class EmployeeService {
     return this.httpClient.put(this.baseUrl + `employees/${id}`, data);
   }
 
-  getEmployeeList(id: number): Observable<any> {
-    return this.httpClient.get(this.baseUrl + 'employess');
+  getEmployeeList(): Observable<any> {
+    return this.httpClient.get(this.baseUrl + 'employees');
   }
 
   deleteEmployee(id: number): Observable<any> {
