@@ -1,0 +1,23 @@
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+mat-form-field {
+  width: 300px;
+}
+
+mat-hint {
+  margin: 5px;
+}
+
+.action-btns {
+  float: right;
+  margin-right: 10px;
+}
+
+.action-btns button {
+  padding: 20px;
+}
