@@ -1,0 +1,26 @@
+{
+  "employees": [
+    {
+      "username": "jdoe123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "birthDate": "1985-06-15T00:00:00Z",
+      "basicSalary": 50000.00,
+      "status": "active",
+      "group": "engineering",
+      "description": "2024-07-11T09:00:00Z"
+    },
+    {
+      "username": "asmith456",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alicesmith@example.com",
+      "birthDate": "1990-03-22T00:00:00Z",
+      "basicSalary": 55000.00,
+      "status": "inactive",
+      "group": "marketing",
+      "description": "2024-07-11T10:00:00Z"
+    }
+  ]
+}
