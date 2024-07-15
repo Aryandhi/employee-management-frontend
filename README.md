@@ -13,7 +13,7 @@ If you want to follow along, you have to be familiar with the following tools:
 - Angular CLI and JSON Server.
 
 ## Development server
-Before starting to write code for our app let’s see if this app is working perfectly by typing the following command:
+Let's play the application if this app is working perfectly by typing the following command:
 `ng serve -o`
 This command will redirect you to http://localhost:4200
 
